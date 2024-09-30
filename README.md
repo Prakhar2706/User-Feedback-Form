@@ -2,14 +2,9 @@
 
 User Feedback Form is a Django-based web application that allows users to create multiple feedback forms and collect responses efficiently. Admins can create questions from the admin panel, and users can fill out forms with a clean and interactive user interface.
 
-## Features
-
-- **Multiple Forms**: Easily create and manage multiple feedback forms.
-- **Admin Panel Questions**: Admins can add, edit, and manage questions from the Django admin interface.
-- **Get Responses**: Collect and view responses from users filling out the feedback forms.
-- **Interactive UI**: A user-friendly, engaging interface for a smooth user experience.
-- **Simple to Use**: Designed to be intuitive, requiring minimal setup to get started.
-- **Responsive Design**: Fully responsive, ensuring an optimal experience on all devices.
+![image](https://github.com/user-attachments/assets/a4401b3b-dbfa-4f90-8977-2341c44680e8)
+![image](https://github.com/user-attachments/assets/153d9088-1962-4853-a346-dd4641cb7494)
+![image](https://github.com/user-attachments/assets/c0b0c236-a9e2-43c2-88be-6e091b566c80)
 
 ## Installation
 
@@ -80,6 +75,15 @@ User Feedback Form is a Django-based web application that allows users to create
 - Django==5.1
 - sqlparse==0.5.1
 - tzdata==2024.1
+
+## Features
+
+- **Multiple Forms**: Easily create and manage multiple feedback forms.
+- **Admin Panel Questions**: Admins can add, edit, and manage questions from the Django admin interface.
+- **Get Responses**: Collect and view responses from users filling out the feedback forms.
+- **Interactive UI**: A user-friendly, engaging interface for a smooth user experience.
+- **Simple to Use**: Designed to be intuitive, requiring minimal setup to get started.
+- **Responsive Design**: Fully responsive, ensuring an optimal experience on all devices.
 
 ## Usage
 
