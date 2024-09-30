@@ -4,7 +4,7 @@ User Feedback Form is a Django-based web application that allows users to create
 
 ![image](https://github.com/user-attachments/assets/a4401b3b-dbfa-4f90-8977-2341c44680e8)
 ![image](https://github.com/user-attachments/assets/153d9088-1962-4853-a346-dd4641cb7494)
-![image](https://github.com/user-attachments/assets/c0b0c236-a9e2-43c2-88be-6e091b566c80)
+![image](https://github.com/user-attachments/assets/6554e008-377f-47a8-a632-f044699dc949)
 
 ## Installation
 
